@@ -1,13 +1,10 @@
 ## course-php-test
-
+php 测试综合 demo
 ## git
 
 ```bash
 简易的命令行入门教程:
-Git 全局设置:
 
-git config --global user.name "juicechen21"
-git config --global user.email "583148695@qq.com"
 创建 git 仓库:
 
 mkdir course-php-test
